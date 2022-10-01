@@ -1,5 +1,5 @@
 <!--
-SPDX-FileCopyrightText: Simon Weiß <sim.cdf@web.de>
+SPDX-FileCopyrightText: Simon Weiß <software@weiss-at-home.de>
 SPDX-License-Identifier: CC0-1.0
 -->
 

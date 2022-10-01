@@ -2,7 +2,7 @@
   "name": "bookshelf",
   "description": "Bücher und Medien katalogisieren",
   "version": "0.0.1",
-  "author": "Simon Weiß <sim.cdf@web.de>",
+  "author": "Simon Weiß <software@weiss-at-home.de>",
   "contributors": [],
   "bugs": {
     "url": "http://localhost/my-issue-tracking"

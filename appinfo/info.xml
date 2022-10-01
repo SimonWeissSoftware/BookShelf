@@ -2,7 +2,7 @@
 <info xmlns:xsi= "http://www.w3.org/2001/XMLSchema-instance"
       xsi:noNamespaceSchemaLocation="https://apps.nextcloud.com/schema/apps/info.xsd">
     <!--
-    SPDX-FileCopyrightText: Simon Weiß <sim.cdf@web.de>
+    SPDX-FileCopyrightText: Simon Weiß <software@weiss-at-home.de>
     SPDX-License-Identifier: CC0-1.0
     -->
     <id>bookshelf</id>
@@ -11,11 +11,11 @@
     <description><![CDATA[Finde deine Bücher und Medien wieder.]]></description>
     <version>0.0.1</version>
     <licence>agpl</licence>
-    <author mail="sim.cdf@web.de" >Simon Weiß</author>
+    <author mail="software@weiss-at-home.de" >Simon Weiß</author>
     <namespace>BookShelf</namespace>
     <category>office</category>
     <category>organization</category>
-    <bugs>http://localhost/my-issue-tracking</bugs>
+    <bugs>https://github.com/SimonWeissSoftware/bookshelf/issues</bugs>
     <dependencies>
         <nextcloud min-version="24" max-version="24"/>
     </dependencies>
