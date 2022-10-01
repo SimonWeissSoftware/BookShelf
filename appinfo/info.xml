@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<info xmlns:xsi= "http://www.w3.org/2001/XMLSchema-instance"
+      xsi:noNamespaceSchemaLocation="https://apps.nextcloud.com/schema/apps/info.xsd">
+    <!--
+    SPDX-FileCopyrightText: Simon Weiß <sim.cdf@web.de>
+    SPDX-License-Identifier: CC0-1.0
+    -->
+    <id>bookshelf</id>
+    <name>Book Shelf</name>
+    <summary>Bücher und Medien katalogisieren</summary>
+    <description><![CDATA[Finde deine Bücher und Medien wieder.]]></description>
+    <version>0.0.1</version>
+    <licence>agpl</licence>
+    <author mail="sim.cdf@web.de" >Simon Weiß</author>
+    <namespace>BookShelf</namespace>
+    <category>office</category>
+    <category>organization</category>
+    <bugs>http://localhost/my-issue-tracking</bugs>
+    <dependencies>
+        <nextcloud min-version="24" max-version="24"/>
+    </dependencies>
+    <navigations>
+        <navigation>
+            <name>Book Shelf</name>
+            <route>bookshelf.page.index</route>
+        </navigation>
+    </navigations>
+</info>
