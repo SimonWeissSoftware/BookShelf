@@ -9,7 +9,7 @@
     <name>Book Shelf</name>
     <summary>Bücher und Medien katalogisieren</summary>
     <description><![CDATA[Finde deine Bücher und Medien wieder.]]></description>
-    <version>0.0.1</version>
+    <version>0.0.3</version>
     <licence>agpl</licence>
     <author mail="software@weiss-at-home.de" >Simon Weiß</author>
     <namespace>BookShelf</namespace>
